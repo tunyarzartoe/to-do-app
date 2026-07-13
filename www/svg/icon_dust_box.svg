@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.063)">
+    <g id="invisible_box" data-name="invisible box">
+      <rect id="長方形_11" data-name="長方形 11" width="24" height="24" transform="translate(0.063)" fill="none"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(2.506 1.504)">
+      <path id="パス_2" data-name="パス 2" d="M24.049,5.908a1.153,1.153,0,0,1-.3.8.852.852,0,0,1-.7.3H17.031a1,1,0,0,1-1-1v-1H13.021v1a1,1,0,0,1-1,1H6.052A1.053,1.053,0,0,1,5,6.108a1.153,1.153,0,0,1,.3-.8.852.852,0,0,1,.7-.3h5.013V4a1,1,0,0,1,1-1h5.013a1,1,0,0,1,1,1v1H23a1.053,1.053,0,0,1,1.053.9Z" transform="translate(-4.999 -3)" fill="#c74545"/>
+      <path id="パス_3" data-name="パス 3" d="M22.028,15.9l-1.2,12.132H12.4L11.2,15.9a1,1,0,0,0-1-.9h0a1,1,0,0,0-1,1.1l1.3,13.034a1,1,0,0,0,1,.9H21.728a1,1,0,0,0,1-.9l1.3-13.034a1,1,0,0,0-1-1.1h0A1,1,0,0,0,22.028,15.9Z" transform="translate(-7.089 -8.984)" fill="#c74545"/>
+    </g>
+  </g>
+</svg>

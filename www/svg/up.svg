@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(26.395) rotate(90)">
+    <g id="invisible_box" data-name="invisible box">
+      <rect id="長方形_12" data-name="長方形 12" width="26" height="26" transform="translate(0 0.395)" fill="none"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(6.599 5.499)">
+      <g id="グループ_1" data-name="グループ 1">
+        <path id="パス_4" data-name="パス 4" d="M22.633,17.7l5.829-5.829a1.045,1.045,0,0,0-.11-1.65,1.155,1.155,0,0,0-1.485.11l-6.544,6.6a1.045,1.045,0,0,0,0,1.54l6.544,6.6a1.155,1.155,0,0,0,1.485.11,1.045,1.045,0,0,0,.11-1.65Z" transform="translate(-15.594 -10)"/>
+        <path id="パス_5" data-name="パス 5" d="M13.1,10A1.1,1.1,0,0,0,12,11.1V24.3a1.1,1.1,0,0,0,2.2,0V11.1A1.1,1.1,0,0,0,13.1,10Z" transform="translate(-12 -10)"/>
+      </g>
+    </g>
+  </g>
+</svg>
